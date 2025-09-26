@@ -40,12 +40,11 @@ compared to GPU.
 executed.
 
 ## Repository Layout
-- `src/`  source code (entry points below)
-- `configs/`  run-time configs (e.g., hyperparams, paths)
+
 - `docs/final_presentation.pdf`  slides for final presentation
-- `requirements.txt` or `environment.yml`  dependencies
-- `logs/`  runtime logs (stdout/stderr)
+- `src/`  source code (entry points below)
 - `README.md`  this quick guide + overview
+- `requirements.txt` or `environment.yml`  dependencies
 
 ## Quick Start
 ```bash
